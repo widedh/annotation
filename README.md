@@ -1,1 +1,1 @@
-# annotation
+python voc2yolo.py --datasets VOC --img_path C:/Users/widwid/Desktop/VOCdevkit/JPEGImages/ --label C:/Users/widwid/Desktop/VOCdevkit/Annotations/ --convert_output_path C:/Users/widwid/Desktop/YOLO/ --img_type ".jpg" --manipast_path ./ --cls_list_file C:/Users/widwid/Desktop/names.txt
